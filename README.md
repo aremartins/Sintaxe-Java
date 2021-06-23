@@ -2,5 +2,5 @@
 
 <h1>Repositório contendo exercícios com a sintaxe básica de Java</h1>
 
-<a href="https://github.com/aremartins/Sintaxe-Java/blob/main/src/Fatorial.java">Fatorial</a>
+<a href="https://github.com/aremartins/Sintaxe-Java/blob/main/src/Fatorial.java" target="_blank">Fatorial</a>
 
