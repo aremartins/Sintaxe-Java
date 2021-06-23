@@ -8,6 +8,6 @@
     <li><a href="https://github.com/aremartins/Sintaxe-Java/blob/main/src/Fatorial.java" target="_blank">Fatorial dos números de 1 a 10</a></li>
     <li><a href="https://github.com/aremartins/Sintaxe-Java/blob/main/src/ImprimeFatorial.java">Fatorial de apenas um número</a></li>
     <li><a href="https://github.com/aremartins/Sintaxe-Java/blob/main/src/SequenciaFibonacci.java">Sequencia de Fibonacci</a></li>  
-    <li><a href="https://github.com/aremartins/Sintaxe-Java/blob/main/src/TesteIR.java">Calculo alíquota Imposto de Renda</a></li>  
+    <li><a href="https://github.com/aremartins/Sintaxe-Java/blob/main/src/TesteIR2.java">Calculo alíquota Imposto de Renda</a></li>  
     <li><a href="https://github.com/aremartins/Sintaxe-Java/blob/main/src/ImprimeMultiplosSimples.java">Imprime multiplos</a></li>
  </ul>
